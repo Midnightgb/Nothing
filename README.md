@@ -1,7 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Julian vasquez
 ======================================================================================================================================
 
-I'm studying a technologist degree in software analysis and development, where I've gained experience in programming, specifically in JavaScript, HTML, CSS, Java, and algorithmic. Additionally, I have a level of English greater than B. I enjoy learning and I'm interested in any field that comes my way. In the future, I would like to work on large projects that require teamwork to carry them out or personal projects that add value to the community. Something unique about me is my communication and responsibility skills, as well as my quick ability to analyze things. I'm excited for what the future holds for me in the world of technology and programming!
 
 * 🌍  I'm based in Colombia
 * ✉️  You can contact me at [midnight3424@gmail.com](mailto:midnight3424@gmail.com)
