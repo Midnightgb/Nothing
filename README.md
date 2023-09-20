@@ -32,8 +32,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
+  <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+  <img width="12" />--->
   <img src="https://cdn.simpleicons.org/arduino/00979D" height="40" alt="arduino logo"  />
 </div>
 
@@ -52,7 +52,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <a href="#" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
   <a href="https://www.twitch.tv/midnight_gb" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
 
-  <img src="https://raw.githubusercontent.com/midnightgb/midnightgb/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/midnightgb/midnightgb/output/snake.svg" alt="????" />
 <!---
 ### Support Me
 -->
