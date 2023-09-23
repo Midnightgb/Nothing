@@ -41,7 +41,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <div align="center">
   <img src="https://readme-stats-two-pi.vercel.app/api?username=midnightgb&show_icons=true&include_all_commits=true&hide_border=true&theme=radical&locale=en&hide_border=false&order=1&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://readme-stats-two-pi.vercel.app/api/top-langs?username=midnightgb&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false&order=2&exclude_repo=AssistantPractice" height="150" alt="languages graph"  />
+  <img src="https://readme-stats-two-pi.vercel.app/api/top-langs?username=midnightgb&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false&order=2&exclude_repo=AssistantPractice,readme-stats" height="150" alt="languages graph"  />
    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=midnightgb&theme=radical" height="150" alt="stats graph"/>
 </div>
 
