@@ -51,7 +51,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <a href="#" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
   <a href="https://www.twitch.tv/midnight_gb" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
 
-  <img src="https://raw.githubusercontent.com/midnightgb/midnightgb/output/snake.svg" alt="????" />
+  <img src="https://raw.githubusercontent.com/midnightgb/midnightgb/output/github-contribution-grid-snake-dark.svg" alt="????" />
 <!---
 ### Support Me
 -->
