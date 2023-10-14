@@ -5,7 +5,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in Colombia
 * ✉️  You can contact me at [midnight3424@gmail.com](mailto:midnight3424@gmail.com)
-* 🧠  I'm learning Javascript, Java, Python, PHP, FastApi
 * 🤝  I'm open to collaborate on anything
 
 ### Skills
