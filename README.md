@@ -2,9 +2,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ======================================================================================================================================
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=midnightgb&label=Profile%20views&color=0e75b6&style=flat" alt="midnightgb" /> </p>
 
-* 🌍  I'm based in Colombia
-<!--* ✉️  You can contact me at [midnight3424@gmail.com](mailto:midnight3424@gmail.com)-->
-* 🤝  I'm open to collaborate on anything
+* 🌍 I'm based in Colombia
+
+* 🤝 I'm open to collaborate on anything
 * 📝 Currently i'm learning docker and astro
 # 💻 Tech Stack:
 
