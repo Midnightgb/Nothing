@@ -3,9 +3,22 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=midnightgb&label=Profile%20views&color=0e75b6&style=flat" alt="midnightgb" /></p>
 
 ## About Me
-* 🌍 `I'm` based in Colombia
-* 📚 `I’m currently learning` Docker and Astro
-
+```json
+{
+  "name": "Julian Vasquez",
+  "location": "Colombia",
+  "interests": [
+    "Programming",
+    "Software Development",
+    "Learning new technologies"
+  ],
+  "currently_learning": [
+    "Docker",
+    "Astro"
+  ],
+  "availability": "Open to collaborations"
+}
+```
 <h2 align="center">🌱 My Skills</h2>
 <h4 align="center">👨🏼‍💻 Programming languages (and html)</h4>
 <p align="center">
