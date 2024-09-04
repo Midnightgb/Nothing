@@ -3,9 +3,8 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=midnightgb&label=Profile%20views&color=0e75b6&style=flat" alt="midnightgb" /></p>
 
 ## About Me
-* 🌍 Based in Colombia
-* 🤝 Open to collaborations
-* 📚 Currently learning Docker and Astro
+* 🌍 `I'm` based in Colombia
+* 📚 `I’m currently learning` Docker and Astro
 
 <h2 align="center">🌱 My Skills</h2>
 <h4 align="center">👨🏼‍💻 Programming languages (and html)</h4>
