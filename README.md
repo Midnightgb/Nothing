@@ -8,7 +8,7 @@
 * 📚 Currently learning Docker and Astro
 
 <h2 align="center">🌱 My Skills</h2>
-<h4 align="center">👨🏼‍💻 Programming languages</h4>
+<h4 align="center">👨🏼‍💻 Programming languages (and html)</h4>
 <p align="center">
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
