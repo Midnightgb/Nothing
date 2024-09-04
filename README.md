@@ -56,7 +56,7 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 </p>
 
-##  Stats
+## 📊 Stats
 
 <div align="center">
   <img src="https://readme-stats-two-pi.vercel.app/api?username=midnightgb&show_icons=true&include_all_commits=true&hide_border=true&theme=dark&locale=en&hide_border=false&order=1&count_private=true" height="150" alt="stats graph"  />
@@ -64,7 +64,7 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=midnightgb&theme=dark&langs_count=5&hide=html,css" height="150" alt="coding time graph"/>
 </div>
 
-## Contribution Graph
+## 🌟 Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Midnightgb/Midnightgb/output/snake-dark.svg" />
@@ -72,5 +72,5 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/Midnightgb/Midnightgb/output/snake.svg" />
 </picture>
 
-## Let's Connect
+## 🤝 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/julian-vasquez-346518265)
