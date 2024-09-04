@@ -5,18 +5,20 @@
 ## About Me
 ```json
 {
-  "name": "Julian Vasquez",
-  "location": "Colombia",
-  "interests": [
-    "Programming",
-    "Software Development",
-    "Learning new technologies"
-  ],
-  "currently_learning": [
-    "Docker",
-    "Astro"
-  ],
-  "availability": "Open to collaborations"
+  "user": {
+    "name": "Julian Vasquez",
+    "location": "Colombia",
+    "interests": [
+      "Programming",
+      "Software Development",
+      "Learning new technologies"
+    ],
+    "currently_learning": [
+      "Docker",
+      "Astro"
+    ],
+    "availability": "Open to collaborations"
+  }
 }
 ```
 <h2 align="center">🌱 My Skills</h2>
