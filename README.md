@@ -1,4 +1,4 @@
-# Hi 👋 I'm Julian vasquez a [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Baloo+2&size=30&duration=1500&pause=1700&color=4D2EF7&center=true&vCenter=true&random=true&width=125&height=25&lines=Software+;Web+;Back-end;Front-end+;Full-stack+)](https://git.io/typing-svg) Developer
+# Hi 👋 I'm Julian vasquez a [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Baloo+2&size=30&weight=600&duration=1500&pause=1700&color=4D2EF7&center=true&vCenter=true&random=true&width=130&height=25&lines=Software+;Web+;Back-end;Front-end+;Full-stack+)](https://git.io/typing-svg) Developer
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=midnightgb&label=Profile%20views&color=0e75b6&style=flat" alt="midnightgb" /></p>
 
