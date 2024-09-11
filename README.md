@@ -1,6 +1,6 @@
 # 🚀 Julian Vasquez | Code Alchemist
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4D2EF7&center=true&vCenter=true&width=435&lines=Turning+Coffee+into+Code;Debugging+the+Universe;Building+Digital+Dreams;Crafting+Pixel-Perfect+Experiences)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Baloo2+Code&size=22&duration=3000&pause=1000&color=4D2EF7&center=true&vCenter=true&width=440&lines=Turning+Coffee+into+Code;Debugging+the+Universe;Building+Digital+Dreams;Crafting+Experiences)](https://git.io/typing-svg)
 
 <div align="center">
   
