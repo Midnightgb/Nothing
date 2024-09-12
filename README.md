@@ -64,7 +64,7 @@ me.say_hi()
   </tr>
 </table>
 
-## 🌈 Skill Spectrum
+## 👨🏼‍💻 Skill Spectrum
 
 <div align="center">
 
